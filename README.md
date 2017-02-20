@@ -1,6 +1,6 @@
 # change_calc_example
 
-The example code from the [Change Calculator Tutorial Video]() by [KickinEspresso](https://www.kickinespresso.com). 
+The example code from the [Change Calculator Tutorial Video](https://youtu.be/ZpACpI7E9iA) by [KickinEspresso](https://www.kickinespresso.com). 
 
 Files:
 
